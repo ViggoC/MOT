@@ -1,5 +1,5 @@
 # 实验说明
-- 本程序参照多目标追踪范式[1]实现，被试需视线跟踪多个随机运动目标对象，运动停止后做出响应
+- 本程序参照多目标追踪范式<sup>[1](#ref1)</sup>实现，被试需视线跟踪多个随机运动目标对象，运动停止后做出响应
 - 实验分为三个部分，引导阶段，练习阶段，实验阶段
 - 引导阶段进行实验规则说明
 - 练习阶段和实验阶段流程相同
@@ -21,4 +21,4 @@
 待选点判别
 ![](judge.png)
 
-[1]PYLYSHYN Z W, STORM R W. Tracking multiple independent targets: Evidence for a parallel tracking mechanism[J]. Spatial Vision, 1988, 3(3): 179–197. DOI:10.1163/156856888X00122.
+<a name="ref1">[1]</a>: PYLYSHYN Z W, STORM R W. Tracking multiple independent targets: Evidence for a parallel tracking mechanism[J]. Spatial Vision, 1988, 3(3): 179–197. DOI:10.1163/156856888X00122.
